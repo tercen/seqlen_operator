@@ -1,5 +1,5 @@
 {
-  "name": "Median",
+  "name": "Seqlen",
   "description": "Return sequence number of a data series",
   "tags": ["basic statistics"],
   "authors": ["tercen"],
